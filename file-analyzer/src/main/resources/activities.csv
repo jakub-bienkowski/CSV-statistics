@@ -1,0 +1,263 @@
+start_time,end_time,productivity,activity_name,category_name,spent_time
+2017-03-23 00:05,2017-03-23 00:10,2,idea,Editing & IDEs,153
+2017-03-23 00:05,2017-03-23 00:10,0,blog.socialcops.com,Uncategorized,101
+2017-03-23 00:05,2017-03-23 00:10,2,stackoverflow.com,General Software Development,21
+2017-03-23 00:05,2017-03-23 00:10,0,google.pl,Search,11
+2017-03-23 00:05,2017-03-23 00:10,1,Google Chrome,Browsers,9
+2017-03-23 00:05,2017-03-23 00:10,-2,facebook.com,General Social Networking,3
+2017-03-23 00:05,2017-03-23 00:10,2,toggldesktop,Intelligence,1
+2017-03-23 00:05,2017-03-23 00:10,2,blogscnew.wpengine.com,Operations,1
+2017-03-23 00:10,2017-03-23 00:15,2,idea,Editing & IDEs,156
+2017-03-23 00:10,2017-03-23 00:15,0,appneta.com,Uncategorized,60
+2017-03-23 00:10,2017-03-23 00:15,2,developers.google.com,General Software Development,54
+2017-03-23 00:10,2017-03-23 00:15,1,haydenjames.io,General Reference & Learning,12
+2017-03-23 00:10,2017-03-23 00:15,2,stackoverflow.com,General Software Development,7
+2017-03-23 00:10,2017-03-23 00:15,0,blog.socialcops.com,Uncategorized,6
+2017-03-23 00:10,2017-03-23 00:15,0,appdynamics.com,Uncategorized,3
+2017-03-23 00:10,2017-03-23 00:15,0,google.pl,Search,2
+2017-03-23 00:15,2017-03-23 00:20,0,musnotificationux,Uncategorized,21
+2017-03-23 00:15,2017-03-23 00:20,0,appneta.com,Uncategorized,19
+2017-03-23 18:00,2017-03-23 18:05,-1,slack,Instant Message,80
+2017-03-23 18:00,2017-03-23 18:05,-2,galaxyclient,Games,28
+2017-03-23 18:00,2017-03-23 18:05,-2,facebook.com,General Social Networking,28
+2017-03-23 18:00,2017-03-23 18:05,0,outlook.office.com,Email,24
+2017-03-23 18:00,2017-03-23 18:05,2,developers.google.com,General Software Development,14
+2017-03-23 18:00,2017-03-23 18:05,2,stackoverflow.com,General Software Development,12
+2017-03-23 18:00,2017-03-23 18:05,0,appneta.com,Uncategorized,12
+2017-03-23 18:00,2017-03-23 18:05,2,RescueTime,Intelligence,6
+2017-03-23 18:00,2017-03-23 18:05,1,Google Chrome,Browsers,5
+2017-03-23 18:05,2017-03-23 18:10,-1,slack,Instant Message,19
+2017-03-23 18:10,2017-03-23 18:15,1,searchui,General Utilities,20
+2017-03-23 18:10,2017-03-23 18:15,-2,spotify,Music,20
+2017-03-23 18:10,2017-03-23 18:15,-2,rozklad-pkp.pl,Travel & Outdoors,17
+2017-03-23 18:10,2017-03-23 18:15,1,shellexperiencehost,General Utilities,5
+2017-03-23 18:10,2017-03-23 18:15,1,Google Chrome,Browsers,4
+2017-03-23 18:10,2017-03-23 18:15,2,developers.google.com,General Software Development,2
+2017-03-23 18:10,2017-03-23 18:15,0,outlook.office.com,Email,2
+2017-03-23 18:10,2017-03-23 18:15,0,system idle process,Other,2
+2017-03-23 18:15,2017-03-23 18:20,-2,rozklad-pkp.pl,Travel & Outdoors,169
+2017-03-23 18:15,2017-03-23 18:20,-2,biletyregionalne.pl,General Shopping,66
+2017-03-23 18:15,2017-03-23 18:20,1,online.mbank.pl,Internet Utilities,41
+2017-03-23 18:15,2017-03-23 18:20,-2,facebook.com,General Social Networking,6
+2017-03-23 18:15,2017-03-23 18:20,2,secure.payu.com,Accounting,4
+2017-03-23 18:15,2017-03-23 18:20,0,gasurvey.gemius.com,Uncategorized,4
+2017-03-23 18:20,2017-03-23 18:25,0,inbox.google.com,Email,112
+2017-03-23 18:20,2017-03-23 18:25,1,blog.trello.com,Engineering & Technology,87
+2017-03-23 18:20,2017-03-23 18:25,-2,facebook.com,General Social Networking,64
+2017-03-23 18:20,2017-03-23 18:25,-1,twitter.windows,Instant Message,29
+2017-03-23 18:20,2017-03-23 18:25,0,eiimnmioipafcokbfikbljfdeojpcgbh,Browsers,8
+2017-03-23 18:25,2017-03-23 18:30,1,blog.trello.com,Engineering & Technology,80
+2017-03-23 18:35,2017-03-23 18:40,1,shellexperiencehost,General Utilities,10
+2017-03-23 18:35,2017-03-23 18:40,0,system idle process,Other,1
+2017-03-23 19:10,2017-03-23 19:15,-2,chrome.google.com,General Shopping,145
+2017-03-23 19:10,2017-03-23 19:15,0,system idle process,Other,14
+2017-03-23 19:10,2017-03-23 19:15,0,carlosjeurissen.com,Uncategorized,13
+2017-03-23 19:10,2017-03-23 19:15,1,blog.trello.com,Engineering & Technology,3
+2017-03-23 19:10,2017-03-23 19:15,1,Google Chrome,Browsers,2
+2017-03-23 19:15,2017-03-23 19:20,1,Google Chrome,Browsers,125
+2017-03-23 19:15,2017-03-23 19:20,-2,chrome.google.com,General Shopping,62
+2017-03-23 19:15,2017-03-23 19:20,-2,spotify,Music,17
+2017-03-23 19:15,2017-03-23 19:20,0,google.com,Search,11
+2017-03-23 19:15,2017-03-23 19:20,0,accounts.google.com,General Communication & Scheduling,10
+2017-03-23 19:15,2017-03-23 19:20,0,carlosjeurissen.com,Uncategorized,10
+2017-03-23 19:15,2017-03-23 19:20,0,nnpdamdaknpnohmlbnmgphiodghbohop,Uncategorized,3
+2017-03-23 19:40,2017-03-23 19:45,-2,chrome.google.com,General Shopping,78
+2017-03-23 19:40,2017-03-23 19:45,0,nnpdamdaknpnohmlbnmgphiodghbohop,Uncategorized,71
+2017-03-23 19:40,2017-03-23 19:45,0,google.pl,Search,29
+2017-03-23 19:40,2017-03-23 19:45,1,myaccount.google.com,Internet Utilities,5
+2017-03-23 19:40,2017-03-23 19:45,1,Google Chrome,Browsers,5
+2017-03-23 19:40,2017-03-23 19:45,1,onenote.com,General Utilities,4
+2017-03-23 19:40,2017-03-23 19:45,1,shellexperiencehost,General Utilities,3
+2017-03-23 19:40,2017-03-23 19:45,2,jtblin.github.io,General Software Development,3
+2017-03-23 19:45,2017-03-23 19:50,-2,chrome.google.com,General Shopping,173
+2017-03-23 19:45,2017-03-23 19:50,0,inbox.google.com,Email,54
+2017-03-23 19:45,2017-03-23 19:50,1,Google Chrome,Browsers,28
+2017-03-23 19:45,2017-03-23 19:50,0,nnpdamdaknpnohmlbnmgphiodghbohop,Uncategorized,18
+2017-03-23 19:45,2017-03-23 19:50,2,developers.google.com,General Software Development,16
+2017-03-23 19:45,2017-03-23 19:50,0,google.com/calendar,Calendars,8
+2017-03-23 19:45,2017-03-23 19:50,1,blog.trello.com,Engineering & Technology,2
+2017-03-23 19:45,2017-03-23 19:50,2,jtblin.github.io,General Software Development,1
+2017-03-23 19:50,2017-03-23 19:55,0,inbox.google.com,Email,177
+2017-03-23 19:50,2017-03-23 19:55,-2,facebook.com,General Social Networking,117
+2017-03-23 19:50,2017-03-23 19:55,2,developers.google.com,General Software Development,4
+2017-03-23 19:50,2017-03-23 19:55,1,blog.trello.com,Engineering & Technology,2
+2017-03-23 19:55,2017-03-23 20:00,1,Google Chrome,Browsers,45
+2017-03-23 19:55,2017-03-23 20:00,0,jetbrains.com,Search,49
+2017-03-23 19:55,2017-03-23 20:00,2,gionkunz.github.io,General Software Development,40
+2017-03-23 19:55,2017-03-23 20:00,2,github.com,General Software Development,36
+2017-03-23 19:55,2017-03-23 20:00,0,Windows Explorer,General Utilities,27
+2017-03-23 19:55,2017-03-23 20:00,-2,facebook.com,General Social Networking,25
+2017-03-23 19:55,2017-03-23 20:00,0,outlook.office.com,Email,15
+2017-03-23 19:55,2017-03-23 20:00,0,inbox.google.com,Email,15
+2017-03-23 19:55,2017-03-23 20:00,2,developers.google.com,General Software Development,12
+2017-03-23 19:55,2017-03-23 20:00,0,google.pl,Search,11
+2017-03-23 19:55,2017-03-23 20:00,2,idea,Editing & IDEs,10
+2017-03-23 19:55,2017-03-23 20:00,-2,spotify,Music,5
+2017-03-23 19:55,2017-03-23 20:00,1,searchui,General Utilities,2
+2017-03-23 19:55,2017-03-23 20:00,1,downloads,General Utilities,2
+2017-03-23 20:00,2017-03-23 20:05,2,Google Spreadsheets,General Business,63
+2017-03-23 20:00,2017-03-23 20:05,0,ideaiu-2017.1,Uncategorized,61
+2017-03-23 20:00,2017-03-23 20:05,-2,facebook.com,General Social Networking,46
+2017-03-23 20:00,2017-03-23 20:05,2,github.com,General Software Development,33
+2017-03-23 20:00,2017-03-23 20:05,0,google.pl,Search,20
+2017-03-23 20:00,2017-03-23 20:05,1,shellexperiencehost,General Utilities,20
+2017-03-23 20:00,2017-03-23 20:05,0,jetbrains.com,Search,14
+2017-03-23 20:00,2017-03-23 20:05,2,stackoverflow.com,General Software Development,12
+2017-03-23 20:00,2017-03-23 20:05,0,eiimnmioipafcokbfikbljfdeojpcgbh,Browsers,9
+2017-03-23 20:00,2017-03-23 20:05,0,simplef,Uncategorized,7
+2017-03-23 20:00,2017-03-23 20:05,2,idea,Editing & IDEs,7
+2017-03-23 20:00,2017-03-23 20:05,0,inbox.google.com,Email,4
+2017-03-23 20:00,2017-03-23 20:05,-1,slack,Instant Message,3
+2017-03-23 20:00,2017-03-23 20:05,0,system idle process,Other,1
+2017-03-23 20:05,2017-03-23 20:10,2,stackoverflow.com,General Software Development,270
+2017-03-23 20:05,2017-03-23 20:10,-2,facebook.com,General Social Networking,16
+2017-03-23 20:05,2017-03-23 20:10,-1,slack,Instant Message,7
+2017-03-23 20:05,2017-03-23 20:10,1,searchui,General Utilities,2
+2017-03-23 20:05,2017-03-23 20:10,0,ideaiu-2017.1,Uncategorized,1
+2017-03-23 20:05,2017-03-23 20:10,-2,spotify,Music,1
+2017-03-23 20:10,2017-03-23 20:15,2,idea64,Editing & IDEs,79
+2017-03-23 20:10,2017-03-23 20:15,0,Windows Explorer,General Utilities,36
+2017-03-23 20:20,2017-03-23 20:25,2,idea64,Editing & IDEs,225
+2017-03-23 20:20,2017-03-23 20:25,0,Windows Explorer,General Utilities,4
+2017-03-23 20:25,2017-03-23 20:30,-2,facebook.com,General Social Networking,242
+2017-03-23 20:25,2017-03-23 20:30,2,piotrl.net,Project Management,35
+2017-03-23 20:25,2017-03-23 20:30,2,stackoverflow.com,General Software Development,10
+2017-03-23 20:25,2017-03-23 20:30,0,ponadprogram.kuznia.co,General Communication & Scheduling,6
+2017-03-23 20:25,2017-03-23 20:30,2,idea64,Editing & IDEs,5
+2017-03-23 20:25,2017-03-23 20:30,-2,twitter.com,General Social Networking,2
+2017-03-23 20:30,2017-03-23 20:35,2,stackoverflow.com,General Software Development,89
+2017-03-23 20:30,2017-03-23 20:35,2,idea64,Editing & IDEs,88
+2017-03-23 20:30,2017-03-23 20:35,0,eiimnmioipafcokbfikbljfdeojpcgbh,Browsers,57
+2017-03-23 20:30,2017-03-23 20:35,0,ponadprogram.kuznia.co,General Communication & Scheduling,44
+2017-03-23 20:30,2017-03-23 20:35,1,Google Chrome,Browsers,7
+2017-03-23 20:30,2017-03-23 20:35,0,google.pl,Search,6
+2017-03-23 20:30,2017-03-23 20:35,-2,facebook.com,General Social Networking,5
+2017-03-23 20:35,2017-03-23 20:40,2,github.com,General Software Development,204
+2017-03-23 20:35,2017-03-23 20:40,2,idea64,Editing & IDEs,86
+2017-03-23 20:35,2017-03-23 20:40,0,google.pl,Search,5
+2017-03-23 20:35,2017-03-23 20:40,1,Google Chrome,Browsers,3
+2017-03-23 20:35,2017-03-23 20:40,2,stackoverflow.com,General Software Development,1
+2017-03-23 20:40,2017-03-23 20:45,2,idea64,Editing & IDEs,160
+2017-03-23 20:40,2017-03-23 20:45,2,stackoverflow.com,General Software Development,51
+2017-03-23 20:40,2017-03-23 20:45,0,google.pl,Search,38
+2017-03-23 20:40,2017-03-23 20:45,2,github.com,General Software Development,35
+2017-03-23 20:40,2017-03-23 20:45,-2,Google+,General Social Networking,5
+2017-03-23 20:40,2017-03-23 20:45,1,Google Chrome,Browsers,5
+2017-03-23 20:40,2017-03-23 20:45,-2,facebook.com,General Social Networking,2
+2017-03-23 20:45,2017-03-23 20:50,2,idea64,Editing & IDEs,96
+2017-03-23 20:45,2017-03-23 20:50,1,online.mbank.pl,Internet Utilities,76
+2017-03-23 20:45,2017-03-23 20:50,2,github.com,General Software Development,32
+2017-03-23 20:45,2017-03-23 20:50,-1,slack,Instant Message,22
+2017-03-23 20:45,2017-03-23 20:50,2,stackoverflow.com,General Software Development,20
+2017-03-23 20:45,2017-03-23 20:50,2,24.play.pl,Accounting,14
+2017-03-23 20:45,2017-03-23 20:50,0,Windows Explorer,General Utilities,12
+2017-03-23 20:45,2017-03-23 20:50,2,logowanie.play.pl,General Business,8
+2017-03-23 20:45,2017-03-23 20:50,1,Google Chrome,Browsers,5
+2017-03-23 20:45,2017-03-23 20:50,1,hdokiejnpimakedhajhdlcegeplioahd,General Utilities,4
+2017-03-23 20:45,2017-03-23 20:50,2,mbank.pl,General Business,4
+2017-03-23 20:50,2017-03-23 20:55,1,online.mbank.pl,Internet Utilities,248
+2017-03-23 20:50,2017-03-23 20:55,2,github.com,General Software Development,47
+2017-03-23 20:50,2017-03-23 20:55,2,mbank.pl,General Business,3
+2017-03-23 20:50,2017-03-23 20:55,0,google.pl,Search,2
+2017-03-23 20:55,2017-03-23 21:00,2,idea64,Editing & IDEs,98
+2017-03-23 20:55,2017-03-23 21:00,2,github.com,General Software Development,66
+2017-03-23 20:55,2017-03-23 21:00,2,stackoverflow.com,General Software Development,63
+2017-03-23 20:55,2017-03-23 21:00,0,kkulewski.pl,Uncategorized,63
+2017-03-23 20:55,2017-03-23 21:00,1,shellexperiencehost,General Utilities,8
+2017-03-23 20:55,2017-03-23 21:00,0,avatars0.githubusercontent.com,Uncategorized,2
+2017-03-23 21:00,2017-03-23 21:05,2,idea64,Editing & IDEs,190
+2017-03-23 21:00,2017-03-23 21:05,2,stackoverflow.com,General Software Development,65
+2017-03-23 21:00,2017-03-23 21:05,-2,spotify,Music,44
+2017-03-23 21:05,2017-03-23 21:10,2,idea64,Editing & IDEs,274
+2017-03-23 21:05,2017-03-23 21:10,2,stackoverflow.com,General Software Development,24
+2017-03-23 21:10,2017-03-23 21:15,2,idea64,Editing & IDEs,300
+2017-03-23 21:15,2017-03-23 21:20,2,idea64,Editing & IDEs,276
+2017-03-23 21:15,2017-03-23 21:20,2,stackoverflow.com,General Software Development,24
+2017-03-23 21:20,2017-03-23 21:25,2,idea64,Editing & IDEs,279
+2017-03-23 21:20,2017-03-23 21:25,2,stackoverflow.com,General Software Development,19
+2017-03-23 21:25,2017-03-23 21:30,2,idea64,Editing & IDEs,132
+2017-03-23 21:25,2017-03-23 21:30,-2,facebook.com,General Social Networking,101
+2017-03-23 21:25,2017-03-23 21:30,2,stackoverflow.com,General Software Development,55
+2017-03-23 21:25,2017-03-23 21:30,1,Google Chrome,Browsers,7
+2017-03-23 21:25,2017-03-23 21:30,0,google.pl,Search,4
+2017-03-23 21:30,2017-03-23 21:35,-2,wolczanka.pl,Clothes & Personal,148
+2017-03-23 21:30,2017-03-23 21:35,-2,Facebook for Windows,General Social Networking,47
+2017-03-23 21:30,2017-03-23 21:35,2,idea64,Editing & IDEs,26
+2017-03-23 21:30,2017-03-23 21:35,1,Google Chrome,Browsers,18
+2017-03-23 21:30,2017-03-23 21:35,0,wunderlist.com,General Communication & Scheduling,13
+2017-03-23 21:30,2017-03-23 21:35,1,applicationframehost,General Utilities,4
+2017-03-23 21:30,2017-03-23 21:35,2,stackoverflow.com,General Software Development,3
+2017-03-23 21:30,2017-03-23 21:35,-2,facebook.com,General Social Networking,3
+2017-03-23 21:35,2017-03-23 21:40,-2,youtube.com,Video,186
+2017-03-23 21:35,2017-03-23 21:40,0,google.pl,Search,99
+2017-03-23 21:35,2017-03-23 21:40,1,shellexperiencehost,General Utilities,10
+2017-03-23 21:35,2017-03-23 21:40,-2,wolczanka.pl,Clothes & Personal,4
+2017-03-23 21:40,2017-03-23 21:45,-2,youtube.com,Video,294
+2017-03-23 21:40,2017-03-23 21:45,-2,Facebook for Windows,General Social Networking,6
+2017-03-23 21:45,2017-03-23 21:50,-2,youtube.com,Video,300
+2017-03-23 21:50,2017-03-23 21:55,-2,youtube.com,Video,300
+2017-03-23 21:55,2017-03-23 22:00,-2,youtube.com,Video,300
+2017-03-23 22:00,2017-03-23 22:05,-2,youtube.com,Video,284
+2017-03-23 22:00,2017-03-23 22:05,2,toggldesktop,Intelligence,7
+2017-03-23 22:00,2017-03-23 22:05,1,Google Chrome,Browsers,3
+2017-03-23 22:00,2017-03-23 22:05,0,google.pl,Search,3
+2017-03-23 22:00,2017-03-23 22:05,-2,Facebook for Windows,General Social Networking,2
+2017-03-23 22:05,2017-03-23 22:10,-2,youtube.com,Video,192
+2017-03-23 22:05,2017-03-23 22:10,-2,Facebook for Windows,General Social Networking,100
+2017-03-23 22:05,2017-03-23 22:10,0,google.pl,Search,4
+2017-03-23 22:05,2017-03-23 22:10,0,moust,Uncategorized,2
+2017-03-23 22:05,2017-03-23 22:10,0,moustuaizer,Uncategorized,2
+2017-03-23 22:10,2017-03-23 22:15,-2,youtube.com,Video,289
+2017-03-23 22:10,2017-03-23 22:15,0,google.pl,Search,7
+2017-03-23 22:10,2017-03-23 22:15,0,translate.google.com,Search,4
+2017-03-23 22:15,2017-03-23 22:20,-2,youtube.com,Video,168
+2017-03-23 22:15,2017-03-23 22:20,1,Google Chrome,Browsers,129
+2017-03-23 22:15,2017-03-23 22:20,0,translate.google.com,Search,3
+2017-03-23 22:20,2017-03-23 22:25,0,tral,Uncategorized,234
+2017-03-23 22:20,2017-03-23 22:25,-2,youtube.com,Video,46
+2017-03-23 22:20,2017-03-23 22:25,1,Google Chrome,Browsers,20
+2017-03-23 22:25,2017-03-23 22:30,-2,youtube.com,Video,222
+2017-03-23 22:25,2017-03-23 22:30,0,tral,Uncategorized,57
+2017-03-23 22:25,2017-03-23 22:30,1,Google Chrome,Browsers,21
+2017-03-23 22:30,2017-03-23 22:35,-2,wolczanka.pl,Clothes & Personal,156
+2017-03-23 22:30,2017-03-23 22:35,-2,facebook.com,General Social Networking,51
+2017-03-23 22:30,2017-03-23 22:35,1,Google Chrome,Browsers,42
+2017-03-23 22:30,2017-03-23 22:35,0,google.com,Search,16
+2017-03-23 22:30,2017-03-23 22:35,-2,youtube.com,Video,13
+2017-03-23 22:30,2017-03-23 22:35,0,google.pl,Search,7
+2017-03-23 22:30,2017-03-23 22:35,-2,Facebook for Windows,General Social Networking,5
+2017-03-23 22:30,2017-03-23 22:35,0,wunderlist.com,General Communication & Scheduling,2
+2017-03-23 22:30,2017-03-23 22:35,1,maps.google.com,Maps & Regional,2
+2017-03-23 22:30,2017-03-23 22:35,0,eiimnmioipafcokbfikbljfdeojpcgbh,Browsers,2
+2017-03-23 22:35,2017-03-23 22:40,-2,wolczanka.pl,Clothes & Personal,256
+2017-03-23 22:35,2017-03-23 22:40,-2,Facebook for Windows,General Social Networking,24
+2017-03-23 22:35,2017-03-23 22:40,2,stackoverflow.com,General Software Development,9
+2017-03-23 22:35,2017-03-23 22:40,0,google.pl,Search,5
+2017-03-23 22:35,2017-03-23 22:40,2,idea64,Editing & IDEs,4
+2017-03-23 22:35,2017-03-23 22:40,0,wunderlist.com,General Communication & Scheduling,2
+2017-03-23 22:40,2017-03-23 22:45,2,idea64,Editing & IDEs,261
+2017-03-23 22:40,2017-03-23 22:45,2,github.com,General Software Development,29
+2017-03-23 22:40,2017-03-23 22:45,2,stackoverflow.com,General Software Development,4
+2017-03-23 22:40,2017-03-23 22:45,-2,facebook.com,General Social Networking,2
+2017-03-23 22:40,2017-03-23 22:45,1,Google Chrome,Browsers,2
+2017-03-23 22:45,2017-03-23 22:50,2,idea64,Editing & IDEs,215
+2017-03-23 22:45,2017-03-23 22:50,2,github.com,General Software Development,38
+2017-03-23 22:45,2017-03-23 22:50,2,toggldesktop,Intelligence,14
+2017-03-23 22:45,2017-03-23 22:50,0,inbox.google.com,Email,10
+2017-03-23 22:45,2017-03-23 22:50,1,Google Chrome,Browsers,9
+2017-03-23 22:45,2017-03-23 22:50,0,translate.google.com,Search,7
+2017-03-23 22:45,2017-03-23 22:50,-2,spotify,Music,2
+2017-03-23 22:50,2017-03-23 22:55,1,linkedin.com,Professional Networking,137
+2017-03-23 22:50,2017-03-23 22:55,0,inbox.google.com,Email,88
+2017-03-23 22:50,2017-03-23 22:55,-2,meetup.com,General Social Networking,32
+2017-03-23 22:50,2017-03-23 22:55,2,github.com,General Software Development,31
+2017-03-23 22:50,2017-03-23 22:55,-2,spotify,Music,6
+2017-03-23 22:50,2017-03-23 22:55,-2,facebook.com,General Social Networking,2
+2017-03-23 22:50,2017-03-23 22:55,0,google.pl,Search,2
+2017-03-23 22:50,2017-03-23 22:55,2,stackoverflow.com,General Software Development,2
+2017-03-23 22:55,2017-03-23 23:00,-2,facebook.com,General Social Networking,48
+2017-03-23 22:55,2017-03-23 23:00,2,idea64,Editing & IDEs,10
+2017-03-23 22:55,2017-03-23 23:00,-2,meetup.com,General Social Networking,9
+2017-03-23 22:55,2017-03-23 23:00,2,developers.google.com,General Software Development,8
+2017-03-23 22:55,2017-03-23 23:00,2,stackoverflow.com,General Software Development,3
+2017-03-23 22:55,2017-03-23 23:00,0,system idle process,Other,2
