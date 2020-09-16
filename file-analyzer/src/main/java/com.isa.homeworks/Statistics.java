@@ -25,86 +25,85 @@ public class Statistics {
 
     private void activitiesCounter(List<Activity> activityList){
 
-        long numberOfActivities = activityList.stream()
-                .count();
+        long numberOfActivities = activityList.size();
+
         logger.info("\nNumber of activities: " + numberOfActivities);
     }
 
     private void shortestActivity(List<Activity> activityList) {
 
-        int shortestActivity = activityList.stream()
-                .min((a1, a2) -> a1.getSpent_time() - a2.getSpent_time())
-                .map(Activity::getSpent_time)
-                .get();
+        OptionalInt shortestActivity = activityList.stream()
+                .mapToInt(Activity::getSpent_time)
+                .min();
 
-        logger.info("\nShortest activity: " + shortestActivity + " s");
+        logger.info("\nShortest activity: " + shortestActivity.orElse(0) + " s");
     }
+
     private void longestActivity(List<Activity> activityList) {
 
-        int longestActivity = activityList.stream()
-                .max((a1, a2) -> a1.getSpent_time() - a2.getSpent_time())
-                .map(Activity::getSpent_time)
-                .get();
+        OptionalInt longestActivity = activityList.stream()
+                .mapToInt(Activity::getSpent_time)
+                .max();
 
-        logger.info("\nLongest activity: " + longestActivity + " s");
+        logger.info("\nLongest activity: " + longestActivity.orElse(0) + " s");
     }
+
     private void mediumTimeOfActivities(List<Activity> activityList) {
 
-        Integer time = 0;
-        for (Activity activity : activityList) {
-            time += activity.getSpent_time();
-        }
-        double mediumTime = (double) time / activityList.size();
-        DecimalFormat df = new DecimalFormat("0.00");
-        logger.info("\nAverage time spent on activity: "  + df.format(mediumTime) + " s");
-    }
-    private void medianTimeOfActivities(List<Activity> activityList) {
+        OptionalDouble mediumTimeOfActivities = activityList.stream()
+                .mapToInt(Activity::getSpent_time)
+                .average();
 
-        List<Integer> medianList = new ArrayList<>();
-        for (Activity activity : activityList) {
-            medianList.add(activity.getSpent_time());
-        }
-        Collections.sort(medianList);
-        int medianPosition = medianList.size()/2;
-        logger.info("\nMedian of time spent on activity: " + medianList.get(medianPosition) + "s");
+        DecimalFormat df = new DecimalFormat("0.00");
+        logger.info("\nAverage time spent on activity: " + df.format(mediumTimeOfActivities.orElse(0.0)) + " s");
     }
+
+    private void medianTimeOfActivities(List<Activity> activityList) {
+        long numberOfActivities = activityList.size();
+        OptionalInt medianTimeOfActivities = activityList.stream()
+                .mapToInt(Activity::getSpent_time)
+                .sorted()
+                .limit(numberOfActivities / 2)
+                .max();
+
+        logger.info("\nMedian of time spent on activity: " + medianTimeOfActivities.orElse(0) + "s");
+    }
+
     private void totalTimeSpent(List<Activity> activityList) {
 
-        Integer totalTime = 0;
-        for (Activity activity : activityList) {
-            totalTime += activity.getSpent_time();
-        }
-        int hours = totalTime / 3600;
-        int minutes = (totalTime / 60) % 60;
+        int totalTimeOfActivities = activityList.stream()
+                .mapToInt(Activity::getSpent_time)
+                .sum();
+
+        int hours = totalTimeOfActivities / 3600;
+        int minutes = (totalTimeOfActivities / 60) % 60;
 
         logger.info("\nTotal time spent on activities: " + hours + "h " + minutes + "min");
     }
+
     private void activityHours(List<Activity> activityList, String activityName) {
 
-        List<Integer> hours = new ArrayList<>();
-        for (Activity activity : activityList) {
-            if (activity.getActivity_name().equals(activityName)){
-                Integer hour = am.converter(activity.getStart_time()).getHour();
-                if (!hours.contains(hour)) {
-                    hours.add(hour);
-                }
-            }
-        }
         logger.info("\nHours in which user spent time on " + activityName + ": ");
-        for (Integer hour : hours) {
-            logger.info(hour + ", ");
-        }
+
+        activityList.stream()
+                .filter(a -> a.getActivity_name().equals(activityName))
+                .mapToInt(a -> am.converter(a.getStart_time()).getHour())
+                .sorted()
+                .distinct()
+                .forEach(x -> logger.info(x + ", "));
+
     }
+
     private void categoryTime(List<Activity> activityList, String categoryName) {
 
-        Integer timeSpent = 0;
-        for (Activity activity : activityList) {
-            if (activity.getCategory_name().equals(categoryName)){
-                timeSpent += activity.getSpent_time();
-            }
-        }
-        int minutes = timeSpent / 60;
-        int seconds = (timeSpent) % 60;
+        int totalTimeSpentOnCategory = activityList.stream()
+                .filter(a -> a.getCategory_name().equals(categoryName))
+                .mapToInt(Activity::getSpent_time)
+                .sum();
+
+        int minutes = totalTimeSpentOnCategory / 60;
+        int seconds = totalTimeSpentOnCategory % 60;
+
         logger.info("\nTime spent time on " + categoryName + ": " + minutes + "min " + seconds + "s");
     }
     private void mostIntenseHour(List<Activity> activityList) {
